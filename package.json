@@ -1,0 +1,32 @@
+{
+  "name": "yo-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethbergman/yo-hapi.git"
+  },
+  "keywords": [
+    "hapi.js"
+  ],
+  "author": "Seth Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethbergman/yo-hapi/issues"
+  },
+  "homepage": "https://github.com/sethbergman/yo-hapi#readme",
+  "dependencies": {
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
