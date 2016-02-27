@@ -26,8 +26,8 @@ Install Node.js by using the big install button on the [http://nodejs.org/](http
 After Node.js is installed, clone this repo, change `cd` to this directory, and run `npm install`
 
 ```bash
-$ git clone https://github.com/sethbergman/get-hapi.git
-$ cd get-hapi
+$ git clone https://github.com/sethbergman/be-hapi.git
+$ cd be-hapi
 $ npm install
 ```
 
