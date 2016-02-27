@@ -3,7 +3,7 @@ const Hapi = require('hapi')
 const server = new Hapi.Server()
 server.connection({
   host: 'yo-hapi.iocloudstack.com',
-  port: 8000
+  port: 5000
 })
 
 let goodOptions = {
