@@ -2,7 +2,7 @@
 const Hapi = require('hapi')
 const server = new Hapi.Server()
 server.connection({
-  host: 'localhost',
+  host: 'yo-hapi.iocloudstack.com',
   port: 8000
 })
 
