@@ -1,6 +1,8 @@
 Be Hapi
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/be-hapi.svg)](https://greenkeeper.io/)
+
 Boilerplate Hapi Web and API Server Example
 
 ## The Goal:
